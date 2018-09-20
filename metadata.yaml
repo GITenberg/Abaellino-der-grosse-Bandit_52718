@@ -1,6 +1,9 @@
 _repo: Abaellino-der-grosse-Bandit_52718
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Abaellino der grosse Bandit
+covers:
+- cover_type: archival
+  image_path: 52718-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Zschokke, Heinrich
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5011
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52718#Abaellino-der-grosse-Bandit
 gutenberg_issued: '2016-08-04'
 gutenberg_type: Text
 identifiers:
