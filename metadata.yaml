@@ -1,0 +1,28 @@
+_repo: Abaellino-der-grosse-Bandit_52718
+_version: 0.0.1
+alternative_title: Abaellino der grosse Bandit
+creator:
+  author:
+    agent_name: Zschokke, Heinrich
+    alias: Zschokke, Johann Heinrich Daniel
+    birthdate: 1771
+    deathdate: 1848
+    gutenberg_agent_id: '5011'
+    url: http://www.gutenberg.org/2009/agents/5011
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
+description: ''
+gutenberg_issued: '2016-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52718'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Venice (Italy) -- Fiction'
+- GITenberg
+title: Abaellino der große Bandit
+url: http://www.gutenberg.org/ebooks/52718
